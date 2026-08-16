@@ -139,6 +139,7 @@ Testing web application UI e.g. via browser engine.
 
 | Library | Comment |
 |-----------|---------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile testing with persistent memory, self-healing, CLI, MCP, and Agent Skills; tests .NET applications from the outside
 | [Atata](https://github.com/atata-framework/atata)
 | [Canopy](http://lefthandedgoat.github.io/canopy/) | F#
 | [Coypu](https://github.com/featurist/coypu)
