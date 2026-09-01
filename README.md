@@ -80,7 +80,7 @@ Key:
 | **[NSubstitute](http://nsubstitute.github.io/)**
 | [NUnit.Mocks](https://www.nuget.org/packages/NUnit.Mocks/) | *Discontinued*
 | [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | *Discontinued*
-| [SimpleStubs](https://github.com/microsoft/SimpleStubs)
+| [SimpleStubs](https://github.com/microsoft/SimpleStubs) | *Discontinued*
 | [TUnit.Mocks](https://tunit.dev/docs/writing-tests/mocking/)
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page) | Non-free
 
